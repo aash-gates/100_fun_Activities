@@ -11,3 +11,6 @@ Furthermore, it's offline!
 
 Note: The application might not fill the screen on big monitors. You may see white negative space.
 
+
+# Download and Open 100 Fun Activites.exe 
+
